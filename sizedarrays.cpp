@@ -29,7 +29,7 @@ using namespace std;
         0 <= i < n
         0 <= j < k
 
-    Output Format
+    Output Format:
 
         For each pair of i and j values (i.e., for each query), print a single integer that denotes the element located at index j of the array referenced by a[i]. There should be a total of q lines of output.
 */

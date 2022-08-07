@@ -19,7 +19,7 @@ using namespace std;
         1 <= N <= 1000
         1 <= A[i] <= 10000, where A[i] is the i th integer in the array.
 
-    Output Format
+    Output Format:
 
         Print the N integers of the array in the reverse order, space-separated on a single line.
 */

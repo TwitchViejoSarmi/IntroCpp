@@ -18,7 +18,7 @@ using namespace std;
     Constraints:
         1 <= a, b, c <= 1000
 
-    Output Format
+    Output Format:
 
         Print the sum of the three numbers on a single line.
 */
